@@ -12,16 +12,6 @@ The framework is designed for red team operators, researchers, and learners who 
 
 ## ✨ Features
 
-- ✅ Agent registration and check-in
-- 📡 Secure and customizable tasking/response system
-- 📊 Real-time communication via WebSockets
-- 🕵️ Implant execution via encrypted channels
-- 🌐 Modern web dashboard built with Vue.js
-- 🔐 Basic authentication and session control (JWT or cookie-based)
-- 💾 SQLite/PostgreSQL support (optional)
-- 🧩 Modular implant stubs (Windows/Linux/macOS)
-- 🧰 Operator command history and auditing
-
 ## 🚧 Workshop Goals
 
 This project was created to explore and reinforce concepts taught during the **Antisyphon C2 Framework Development** workshop, including:
